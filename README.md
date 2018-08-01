@@ -27,7 +27,8 @@ You will create a resume that exists entirely within the developer console.
 
 Your resume output should look similar to this:
 
-````Name: JOHN DOE
+```
+Name: JOHN DOE
 Career: Full Stack Engineer / Instructor
 Description: I like turtles
 
@@ -54,9 +55,9 @@ My Skills:
 - BAM: Opera Singing
 - Python
 - JavaScript
-- BAM: TypeScript```
+- BAM: TypeScript
+```
 
 ## Submission
 
 When you are finished, make sure you have committed and pushed your changes to GitHub.
-````
